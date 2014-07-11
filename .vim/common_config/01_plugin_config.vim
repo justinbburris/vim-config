@@ -122,7 +122,7 @@
 
     nmap gt :NERDTreeToggle<CR>
     nmap g :NERDTree \| NERDTreeToggle \| NERDTreeFind<CR>
-  Bundle "git://github.com/scrooloos/nerdcommenter.git"
+  Bundle "git://github.com/scrooloose/nerdcommenter.git"
 
 
 " Tabular for aligning text
